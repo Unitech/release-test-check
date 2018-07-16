@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.6 (16/07/2018)
+- [version: 1.0.6](https://github.com/Unitech/release-test-check/commit/bfcfd05661da224e8282c30f57828f30e0d000ea) - @Unitech
+- [1.0.5](https://github.com/Unitech/release-test-check/commit/727636454bd1b79e4034b8270ac8dd7977c5da37) - @Unitech
+- [1.0.4](https://github.com/Unitech/release-test-check/commit/3ce06daee747674a58ad8ae159303dcfcbc9cb58) - @Unitech
+- [fix: test2](https://github.com/Unitech/release-test-check/commit/ecd95b201ec7619e0555b6d3a02baf64a8fe1986) - @Unitech
+- [fix: asdasd](https://github.com/Unitech/release-test-check/commit/1815ee56171cd769af2f789c37e7737ef30857a7) - @Unitech
+
+---
+
 ## v1.0.3 (16/07/2018)
 - [1.0.3](https://github.com/Unitech/release-test-check/commit/4d374a4253f7979179b2e8298bfd9fb9fa674b37) - @Unitech
 - [fix: v2](https://github.com/Unitech/release-test-check/commit/ede37f884819fd2906b97d17c536902a012f36fc) - @Unitech
