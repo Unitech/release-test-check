@@ -1,3 +1,14 @@
+#### 1.0.8 (2018-07-16)
+
+##### Chores
+
+*  CHANGELOG (0a7ff582)
+
+##### Tests
+
+*  check v2 (688a5918)
+*  check (2e9505e5)
+
 # Changelog
 
 ## v1.0.7 (16/07/2018)
